@@ -21,12 +21,18 @@
     <ClCompile Include="Page.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Sanitizer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Page.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Fact.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sanitizer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
